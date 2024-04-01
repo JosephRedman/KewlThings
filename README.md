@@ -9,7 +9,7 @@ Welcome to KewlThings! Here you'll find a collection of some of my kewlest proje
 **Description:** The OCR pi calculator calculates pi. Thas it. Or is it? This was my first time using the OCR GCSE PSUDOCODE. This was made possible by John Williams!
 **Technologies:** OCR refrence language, www.examreferencelanguage.co.uk, math, Archimedes of Syracuse
 
-**Link:** [AwesomeApp Repository](https://github.com/username/awesomeapp)
+**Link:** https://github.com/OpenMMU/KewlThings/tree/main/OCR%20PI
 
 ## Contributing
 
@@ -19,7 +19,7 @@ Your contributions are highly appreciated! If you have any ideas, bug fixes, or 
 
 If you have any questions or suggestions regarding the projects in this repository, feel free to reach out:
 
-- Email: your@email.com
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Email: Yeovil3dprints@gmail.com
+
 
 Happy coding! 🚀
