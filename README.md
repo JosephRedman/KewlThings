@@ -1,2 +1,0 @@
-# KewlThings
-Kewl programming thingamabobs
